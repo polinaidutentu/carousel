@@ -1,0 +1,38 @@
+.img1{
+    width:250px;
+    height:200px;
+}
+#home{
+    text-align: center;
+}
+#grid{
+    text-align: center;
+}
+ul{
+    float:left;
+    list-style: none;
+    color:azure;
+    background:cornflowerblue;
+    width:100%;
+    position: fixed;
+    top:0px;
+    margin-top:0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    z-index: 100;
+    
+}
+.links{
+    font-size:20px;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#slide{
+    text-align:center;
+}
+#mycarousel{
+    background-color: aqua;
+    
+}
